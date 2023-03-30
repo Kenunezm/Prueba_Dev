@@ -4,7 +4,7 @@
 $servername = "localhost";
 $database = "pruebabd";
 $username = "root";
-$password = "root";
+$password = "";
 
 #Se realiza conexion a la BD
 $conn = mysqli_connect($servername, $username, $password, $database);
