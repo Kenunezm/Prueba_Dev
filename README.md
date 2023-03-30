@@ -18,7 +18,7 @@ Instalacion:
 5. Ahora nos iremos a nuestro navegador e ingresaremos el siguiente link http://localhost/phpmyadmin/.
 6. Nos logearemos con las credenciales por defecto las cuales son Usuario 'root' y Contraseña ''.
 7. Una vez dentro de Phpmyadmin, veremos en la izquierda que nos dejara crear una nueva base de datos, seleccionamos en nueva y arriba donde dice 'Nombre de la base de datos' escribimos el nombre de nuestra base de datos, en este caso 'pruebabd', y damos click en crear.
-8. Ahora se nos cargara nuestra base de datos, tendremos que ir al apartado 'importar' y seleccionamos el archivo 'pruebabd.sql' para luego dar en continuar.
+8. Ahora se nos cargara nuestra base de datos, tendremos que ir al apartado 'importar' y seleccionamos el archivo 'pruebabd.sql' el cual se encuentra dentro de la carpeta 'Database' para luego dar en continuar.
 9. Hasta este punto ya tenemos nuestra base de datos creada, por lo que procederemos a ingresar en nuestro proyecto web en el siguiente link http://localhost/Prueba_DEV/index.php
 
 Uso:
